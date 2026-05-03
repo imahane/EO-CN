@@ -93,7 +93,7 @@
   </entry>
   <entry id="24">
     <source>このギルドカードを削除します{f801}よろしいですか?{f801}</source>
-    <target>即将删除这个公会名片，{f801}这样可以吗？{f801}</target>
+    <target>是否删除这个公会名片？{f801}</target>
   </entry>
   <entry id="25">
     <source>ギルドカードを削除しました{f801}</source>

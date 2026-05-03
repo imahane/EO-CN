@@ -141,50 +141,50 @@
   </entry>
   <entry id="101">
     <source>{f811}{0000}が装備中です{f801}</source>
-    <target>{f811}{0000}が装備中です{f801}</target>
+    <target>{f811}{0000}正在装备中。{f801}</target>
   </entry>
   <entry id="102">
     <source>スロットに効果を付与しますか?{f801}</source>
-    <target>スロットに効果を付与しますか？{f801}</target>
+    <target>是否要为此槽位附加效果？{f801}</target>
   </entry>
   <entry id="103">
     <source>異なる属性は上書きされます{f801}スロットに効果を付与しますか?{f801}</source>
-    <target>異なる属性は上書きされます{f801}スロットに効果を付与しますか？{f801}</target>
+    <target>不同属性将会被覆盖。{f801}是否要为此槽位附加效果？{f801}</target>
   </entry>
   <entry id="104">
     <source>{f811}{0000}{f801}を強化しました!{f801}</source>
-    <target>{f811}{0000}{f801}を強化しました！{f801}</target>
+    <target>已强化{f811}{0000}！{f801}</target>
   </entry>
   <entry id="105">
     <source>武器を所持していません!{f801}</source>
-    <target>武器を所持していません！{f801}</target>
+    <target>没有持有武器！{f801}</target>
   </entry>
   <entry id="106">
     <source>TPが足りません!{f801}</source>
-    <target>TPが足りません！{f801}</target>
+    <target>TP不足！{f801}</target>
   </entry>
   <entry id="107">
     <source>鍛冶不可{f801}</source>
-    <target>鍛冶不可{f801}</target>
+    <target>不可锻造。{f801}</target>
   </entry>
   <entry id="108">
     <source>下画面で強化する武器を選択してください{f801}</source>
-    <target>下画面で強化する武器を選択してください{f801}</target>
+    <target>请在下屏幕选择要强化的武器。{f801}</target>
   </entry>
   <entry id="109">
     <source>下画面で付与する効果を選択してください{f801}</source>
-    <target>下画面で付与する効果を選択してください{f801}</target>
+    <target>请在下屏幕选择要附加的效果。{f801}</target>
   </entry>
   <entry id="110">
     <source>下画面で効果を付与するスロットを{f801}選択してください{f801}</source>
-    <target>下画面で効果を付与するスロットを{f801}選択してください{f801}</target>
+    <target>请在下屏幕选择{f801}要附加的效果与槽位。{f801}</target>
   </entry>
   <entry id="111">
     <source>異なる範囲攻撃は上書きされます{f801}スロットに効果を付与しますか?{f801}</source>
-    <target>異なる範囲攻撃は上書きされます{f801}スロットに効果を付与しますか？{f801}</target>
+    <target>不同范围的攻击将会被覆盖。{f801}是否要为此槽位附加效果？{f801}</target>
   </entry>
   <entry id="112">
     <source>このスロットには{f801}既に同じ効果が付与されています{f801}</source>
-    <target>このスロットには{f801}既に同じ効果が付与されています{f801}</target>
+    <target>此槽位已被赋予相同的效果。{f801}</target>
   </entry>
 </mbm>
