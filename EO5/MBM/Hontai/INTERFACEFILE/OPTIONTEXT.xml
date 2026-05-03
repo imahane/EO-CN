@@ -181,7 +181,7 @@
   </entry>
   <entry id="60">
     <source>現在プレイ中のデータを破棄し{f801}タイトルへ戻りますがよろしいですか?{f801}</source>
-    <target>要放弃当前游玩的内容{f801}返回标题画面吗?{f801}</target>
+    <target>要放弃当前游玩的内容{f801}返回标题画面吗？{f801}</target>
   </entry>
   <entry id="61">
     <source>ゲームカード内の全データを消去し{f801}ゲームデータの初期化を行いますか?{f801}</source>
@@ -189,7 +189,7 @@
   </entry>
   <entry id="62">
     <source>消去したデータは復元できませんが、{f801}本当によろしいですか?{f801}</source>
-    <target>删除后存档数据将无法复原，{f801}确定要这么做吗?{f801}</target>
+    <target>删除后存档数据将无法复原，{f801}确定要这么做吗？{f801}</target>
   </entry>
   <entry id="63">
     <source>ゲームデータの初期化に成功しました{f801}</source>
@@ -441,6 +441,6 @@
   </entry>
   <entry id="260">
     <source>オートセーブする場所を変更しますか?{f801}</source>
-    <target>要更改自动保存的槽位吗?{f801}</target>
+    <target>要更改自动保存的槽位吗？{f801}</target>
   </entry>
 </mbm>
