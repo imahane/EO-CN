@@ -36,8 +36,8 @@
     <target>{f801}{f801}{f801}{f801}{f801}{f801}{f804}{0900}Consumer          {f804}{0000}{f801}{f804}{0900} Software Division{f804}{0000}{f801}{f801}{f804}{0d00}General Manager{f804}{0000}{f801}平岡 直人{f801}{f801}{f801}{f801}{f801}{f801}{f801}{f804}{0d00}Executive Producer{f804}{0000}{f801}平岡 直人{f801}{f801}{f801}{f801}{f801}{f801}{f801}{f804}{0d00}Development{f804}{0000}{f801}{f804}{0600}Atlus CO.,LTD.{f804}{0000}{f801}{f801}{f801}</target>
   </entry>
   <entry id="10">
-    <source>这颗星球上出生、长大的后代们啊，{f801}</source>
-    <target>この星に生まれ、育った者の末裔よ。{f801}</target>
+    <source>この星に生まれ、育った者の末裔よ。{f801}</source>
+    <target>这颗星球上出生、长大的后代们啊，{f801}</target>
   </entry>
   <entry id="11">
     <source>     見事であった。{f801}</source>
