@@ -45,7 +45,7 @@ msgstr "莉莉"
 
 msgctxt "8"
 msgid "アルコン"
-msgstr "亚尔柯"
+msgstr "领导者"
 
 msgctxt "9"
 msgid "衛兵"
