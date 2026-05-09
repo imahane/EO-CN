@@ -137,7 +137,7 @@
   </entry>
   <entry id="49">
     <source>{f843}{0000}の{f801}HPが{f811}{0000}回復した!{f801}</source>
-    <target>{f843}{0000}的HP{f801}恢复了{f811}{0000}点!{f801}</target>
+    <target>{f843}{0000}的HP{f801}恢复了{f811}{0000}点！{f801}</target>
   </entry>
   <entry id="50">
     <source>{f843}{0000}の{f801}HPが{f811}{0000}減少した!{f801}</source>
