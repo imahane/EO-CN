@@ -89,7 +89,7 @@ msgstr "红铁蝲蛄"
 
 msgctxt "19"
 msgid "ゾンビドッグ"
-msgstr "丧尸犬"
+msgstr "僵尸犬"
 
 msgctxt "20"
 msgid "ゴースト"
@@ -129,7 +129,7 @@ msgstr "大黑"
 
 msgctxt "29"
 msgid "ドラゴンゾンビ"
-msgstr "丧尸龙"
+msgstr "僵尸龙"
 
 msgctxt "30"
 msgid "デッドホイール"
@@ -269,7 +269,7 @@ msgstr "弹跳布丁"
 
 msgctxt "64"
 msgid "ゾンビモモンガ"
-msgstr "丧尸飞鼠"
+msgstr "僵尸飞鼠"
 
 msgctxt "65"
 msgid "ひび割れこうべ"
