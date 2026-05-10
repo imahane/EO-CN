@@ -225,7 +225,7 @@ msgstr "万物收割者"
 
 msgctxt "53"
 msgid "マッドドッグ"
-msgstr "疯狗"
+msgstr "疯狂野狗"
 
 msgctxt "54"
 msgid "アイスバット"
@@ -289,7 +289,7 @@ msgstr "愤怒鸟"
 
 msgctxt "69"
 msgid "モールキング"
-msgstr "鼹鼠之"
+msgstr "鼹鼠之王"
 
 msgctxt "70"
 msgid "パンダアント"

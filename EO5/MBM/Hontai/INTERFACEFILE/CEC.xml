@@ -41,6 +41,6 @@
   </entry>
   <entry id="53">
     <source>{f811}{0000}枚のギルドカードを{f801}受け取りました!{f801}</source>
-    <target>收到了{f811}{0000}张公会名片!{f801}</target>
+    <target>收到了{f811}{0000}张公会名片！{f801}</target>
   </entry>
 </mbm>
