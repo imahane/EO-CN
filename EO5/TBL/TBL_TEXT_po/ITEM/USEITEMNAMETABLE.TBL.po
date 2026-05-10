@@ -777,7 +777,7 @@ msgstr "神龙的光翼"
 
 msgctxt "191"
 msgid "樹姫のビロード"
-msgstr "树姬的天鹅绒"
+msgstr "树姬的丝绒"
 
 msgctxt "192"
 msgid "古象の大樹"
