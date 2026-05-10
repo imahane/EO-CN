@@ -1077,7 +1077,7 @@ msgstr "褐色的块茎"
 
 msgctxt "266"
 msgid "熟した蓮実"
-msgstr "成熟的莲实"
+msgstr "成熟的莲子"
 
 msgctxt "267"
 msgid "ザゼンソウ"

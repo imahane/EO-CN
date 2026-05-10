@@ -89,7 +89,7 @@
   </entry>
   <entry id="22">
     <source>アイテムドロップ率が上昇した!{f801}</source>
-    <target>道具掉率提升了！{f801}</target>
+    <target>道具掉落率提升了！{f801}</target>
   </entry>
   <entry id="23">
     <source>戦闘中にダメージを受けた時、{f801}受けたダメージに応じて{f801}TPが回復するようになった!{f801}</source>

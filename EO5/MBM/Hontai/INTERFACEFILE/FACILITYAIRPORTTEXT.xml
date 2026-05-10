@@ -109,7 +109,7 @@
   </entry>
   <entry id="62">
     <source>{f811}{0000}と{f811}{0100}の{f801}武具が外れますがよろしいですか?{f801}</source>
-    <target>是否卸下{f811}{0000}{f801}和{f811}{0100}的的装备？{f801}</target>
+    <target>是否卸下{f811}{0000}{f801}和{f811}{0100}的装备？{f801}</target>
   </entry>
   <entry id="64">
     <source>グリモアの装備とトレードを行います{f801}</source>
@@ -333,7 +333,7 @@
   </entry>
   <entry id="165">
     <source>グリモアトレード中です{f801}</source>
-    <target>正在进行魔导石交易中。{f801}</target>
+    <target>正在进行魔导石交易。{f801}</target>
   </entry>
   <entry id="166">
     <source>選択したグリモアをリセットしますか?{f801}</source>
