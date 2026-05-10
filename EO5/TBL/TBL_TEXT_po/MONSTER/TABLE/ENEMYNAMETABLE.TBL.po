@@ -289,7 +289,7 @@ msgstr "愤怒鸟"
 
 msgctxt "69"
 msgid "モールキング"
-msgstr "鼹鼠之"
+msgstr "鼹鼠之王"
 
 msgctxt "70"
 msgid "パンダアント"
