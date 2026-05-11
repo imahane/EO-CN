@@ -1517,7 +1517,7 @@ msgstr "ユニーク55"
 
 msgctxt "376"
 msgid "ルナリア銀貨"
-msgstr "卢纳里亚银币"
+msgstr "露娜里亚银币"
 
 msgctxt "377"
 msgid "山都銅貨"
@@ -2113,19 +2113,19 @@ msgstr "特制皮袋"
 
 msgctxt "525"
 msgid "ジェネッタメモ1"
-msgstr "洁涅塔的笔记1"
+msgstr "洁涅塔的便条1"
 
 msgctxt "526"
 msgid "ジェネッタメモ2"
-msgstr "洁涅塔的笔记2"
+msgstr "洁涅塔的便条2"
 
 msgctxt "527"
 msgid "ジェネッタメモ3"
-msgstr "洁涅塔的笔记3"
+msgstr "洁涅塔的便条3"
 
 msgctxt "528"
 msgid "ジェネッタメモ4"
-msgstr "洁涅塔的笔记4"
+msgstr "洁涅塔的便条4"
 
 msgctxt "529"
 msgid "ジェネッタの弁当"
@@ -2341,7 +2341,7 @@ msgstr "生锈的镰刀"
 
 msgctxt "582"
 msgid "錆びた銃"
-msgstr "生锈的铳"
+msgstr "生锈的枪械"
 
 msgctxt "583"
 msgid "錆びた籠手"
@@ -2393,7 +2393,7 @@ msgstr "冒险者的信"
 
 msgctxt "595"
 msgid "古寂びた銃"
-msgstr "古旧的铳"
+msgstr "古旧的枪械"
 
 msgctxt "596"
 msgid "古寂びた大盾"
